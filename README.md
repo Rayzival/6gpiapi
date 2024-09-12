@@ -60,8 +60,8 @@ Adicionar video e documentos nessa seção
 ## Sprint 1. Concepção
 - [x] Defina o propósito da API;
 - [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Atulização no jira software;
+- [x] Repositório no GITHUB;
+- [x] Backlog do produto no jira software;
 - [ ] Banco de dados relacional;
 - [ ] Custo por KM;
 - [ ] Custo por unidade transportada;
