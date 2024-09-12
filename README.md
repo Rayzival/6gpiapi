@@ -18,12 +18,11 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status|
 |------|--------|------|
-|Kick Off | dd/mm/aaaa | Concluído|
-|01 | dd/mm/aaaa | Em progresso|
-|02|  dd/mm/aaaa| a fazer |
-|03| dd/mm/aaaa | a fazer|
-|04| dd/mm/aaaa |a fazer |
-|Feira de Soluções|dd/mm/aaaa |a fazer |
+|Kick Off | 28/08/2024 | Concluído|
+|01 | 09/09/2024 | Em progresso|
+|02|  30/09/2024| a fazer |
+|03| 21/10/2024 | a fazer|
+|Feira de Soluções|12/12/2024 |a fazer |
 
 
 
@@ -59,13 +58,13 @@ Adicionar video e documentos nessa seção
 # Backlog do produto
 
 ## Sprint 1. Concepção
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
+- [x] Defina o propósito da API;
+- [x] Identifique os elementos principais;
+- [x] Esboce o layout;
+- [ ] Banco de dados relacional;
+- [ ] Custo por KM;
+- [ ] Custo por unidade transportada;
+- [ ] Integrar banco de dados ao Power BI
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
 
