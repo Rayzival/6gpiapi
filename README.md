@@ -51,6 +51,7 @@ Adicionar video e documentos nessa seção
 * Jira Software
 * Power BI
 * Microsoft Excel
+* MySQL
 * Slack
 
 
