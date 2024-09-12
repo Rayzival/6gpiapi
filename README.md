@@ -61,42 +61,29 @@ Adicionar video e documentos nessa seção
 - [x] Defina o propósito da API;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
+- [x] Atulização no jira software;
 - [ ] Banco de dados relacional;
 - [ ] Custo por KM;
 - [ ] Custo por unidade transportada;
-- [ ] Integrar banco de dados ao Power BI
+- [ ] Integrar banco de dados ao Power BI;
 - [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Apresentação e aprovação.
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
-      
-## Sprint 3 . Implementação
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
+- [ ] Atualizar o dashboard em Power BI;
+- [ ] Teste e revisão;
+- [ ] Atualização no Jira;
+- [ ] Atualização no GITHUB;
 - [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-      
-## Sprint 4. Operacionalização
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
+- [ ] Apresentação e aprovação.       
+## Sprint 3 . Implementação e Finalização
+- [ ] Otimmização de rotas;
+- [ ] Teste e revisão;
+- [ ] Atualização no Jira;
+- [ ] Atualização no GITHUB;
 - [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-
+- [ ] Apresentação e aprovação.
+      
 
 
   
