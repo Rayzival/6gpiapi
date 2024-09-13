@@ -65,7 +65,7 @@ Adicionar video e documentos nessa seção
 - [ ] Banco de dados relacional;
 - [ ] Custo por KM;
 - [ ] Custo por unidade transportada;
-- [ ] Integrar banco de dados ao Power BI;
+- [ ] Integrar banco de dados ao MySQL;
 - [ ] Criação do vídeo;
 - [ ] Apresentação e aprovação.
 
