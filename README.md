@@ -48,7 +48,7 @@ Adicionar video e documentos nessa seção
 ## Tecnologias Utilizadas
 
 * Jira Software
-  Jira Software é uma ferramenta  usada para controle de tarefas, distribuição de trabalho, controle de datas e organização geral do projeto da equipem, ele é baseado no kanban.
+  É uma ferramenta  usada para controle de tarefas, distribuição de trabalho, controle de datas e organização geral do projeto da equipem, ele é baseado no kanban.
   Ele é ótimo para ter uma visulização de onde está indo o projeto tendo uma visão extremamente ampla, tendo como organizar tudo de forma visual ficando assim fácil do entendimento, além de clara visualização dos registros já realizados.
 
 * MySQL
@@ -57,27 +57,8 @@ Adicionar video e documentos nessa seção
 * Power Bi
   Utilizando para a criação de um dashboard de facil entendimento e visualização de erros e gastos que podem ser evitados.
 
-
-Gerenciamento de Tarefas: O Jira permite a criação de issues (problemas, tarefas, melhorias, etc.), que podem ser atribuídas a membros da equipe e acompanhadas ao longo do ciclo de desenvolvimento.
-
-Metodologias Ágeis: Ele é muito utilizado em equipes que adotam Scrum ou Kanban. No Scrum, é possível criar sprints e visualizar o progresso das tarefas no quadro Scrum. No Kanban, você pode gerenciar o fluxo de trabalho de forma visual, movendo as tarefas por diferentes fases.
-
-Relatórios e Métricas: O Jira oferece relatórios que ajudam a equipe a monitorar o desempenho e a identificar gargalos, como gráficos de burn down e relatórios de ciclo.
-
-Integração com outras ferramentas: O Jira pode ser integrado com várias outras ferramentas, como GitHub, Bitbucket e Slack, facilitando a comunicação e o rastreamento de atividades relacionadas ao desenvolvimento.
-
-Customização: Os fluxos de trabalho e painéis podem ser personalizados conforme as necessidades do projeto, tornando o Jira uma ferramenta flexível para diferentes tipos de equipes e projetos.
-
-Com essa estrutura, você pode adaptar e incluir exemplos práticos do uso no seu trabalho, destacando como o Jira contribui para a organização e eficiência da sua equipe.
-
-
-
-
-
-
-
-* Power BI
 * Microsoft Excel
+  O Excel foi umas das ferramentas mais utilizadas no nosso trabalho tendo o papel fundamentqal na organização dos dados, além de que pudemos usar como caminho para usar no Power Bi e no propio MySQL
 * MySQL
 * Slack
 
