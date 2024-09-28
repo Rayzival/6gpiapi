@@ -52,15 +52,16 @@ Adicionar video e documentos nessa seção
   Ele é ótimo para ter uma visulização de onde está indo o projeto tendo uma visão extremamente ampla, tendo como organizar tudo de forma visual ficando assim fácil do entendimento, além de clara visualização dos registros já realizados.
 
 * MySQL
-  MySQL software utilizado para a realização de uma tabela relacional dos dados propostos pelo cliente de forma que fique de facil entendimento e compreensão dos dados relacionados e possivelmente integrados ao power bi.
+  Software utilizado para a realização de uma tabela relacional dos dados propostos pelo cliente de forma que fique de facil entendimento e compreensão dos dados relacionados e possivelmente integrados ao power bi.
 
 * Power Bi
   Utilizando para a criação de um dashboard de facil entendimento e visualização de erros e gastos que podem ser evitados.
 
 * Microsoft Excel
-  O Excel foi umas das ferramentas mais utilizadas no nosso trabalho tendo o papel fundamentqal na organização dos dados, além de que pudemos usar como caminho para usar no Power Bi e no propio MySQL
-* MySQL
+   Uma das ferramentas mais utilizadas no nosso trabalho tendo o papel fundamentqal na organização dos dados, além de que pudemos usar como caminho para usar no Power Bi e no propio MySQL
+  
 * Slack
+  Software de comunicação para validar as entregas e sanar dúvidas
 
 
 
@@ -71,10 +72,10 @@ Adicionar video e documentos nessa seção
 - [x] Identifique os elementos principais;
 - [x] Repositório no GITHUB;
 - [x] Backlog do produto no jira software;
-- [ ] Banco de dados relacional;
-- [ ] Custo por KM;
-- [ ] Custo por unidade transportada;
-- [ ] Integrar banco de dados ao MySQL;
+- [x] Banco de dados relacional;
+- [x] Custo por KM;
+- [x] Custo por unidade transportada;
+- [x] Integrar banco de dados ao Power BI;
 - [ ] Criação do vídeo;
 - [ ] Apresentação e aprovação.
 
@@ -93,7 +94,7 @@ Adicionar video e documentos nessa seção
 - [ ] Criação do vídeo;
 - [ ] Apresentação e aprovação.
       
-
+## Dashboard no Power BI
 
   
 # Competências desenvolvidas
