@@ -36,32 +36,27 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas.
 
-# Funcionalidades e registros (vídeos e apresentações) das sprints
+# Funcionalidades e registros das sprints
 
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
-
-Adicionar video e documentos nessa seção
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
+  Para o projeto foi usado ferramentas como Excel, Power BI e o MySQL, para utilização nós dados coletados, na qual será desenvolvido um dashboard que apresente visualmente todos os dados importes para a análise de maneira fácil, objetiva e visual ao projeto.
+  As empresas têm muita dificuldade na distribuição e nos transportes dessas operações tendo desde erros desde na hora do carregamento até a entrega ao cliente, lembra que a pontualidade e eficácia nas entregas trás confiança ao consumidor assim criando laços e num ramo de cervejaria onde o fluxo é bem constante e variado, cada erro logístico pode custar caro e isso mostra uma falha no processo da empresa.
+  A empresa trabalhada no projeto quer ter uma visão ampla do setor logistico dela, para que possa melhorar a eficiência, tendo assim um setor bem estruturado, para tanto economicamente e estruturalmente.
+  O projeto na qual está sendo estudado e desenvolvido tem como objetivo usar, aprender e solucionar a situação na qual o cliente se encontra para que possamos propor o problema enfrentado por ele. A logistica especialmente no setor de bebidas, é uns dos pilar do sucesso da organização, pois ele e volve varios processos individuais que se não tiver a devida atenção e admimistração correta pode gerar além de perdas financeira, perda de dados e prejudica a relação com o cliente. A empresa visa melhorar sua gestão na logistica, obtendo uma visão mais clara da operação, desde da organização do frete até mesmo otimização da frota dos caminhões, visando reduzir os erros e maximizar a eficiencia da operação.
 
 ## Tecnologias Utilizadas
 
-* Jira Software
-  É uma ferramenta  usada para controle de tarefas, distribuição de trabalho, controle de datas e organização geral do projeto da equipem, ele é baseado no kanban.
-  Ele é ótimo para ter uma visulização de onde está indo o projeto tendo uma visão extremamente ampla, tendo como organizar tudo de forma visual ficando assim fácil do entendimento, além de clara visualização dos registros já realizados.
-
-* MySQL
-  Software utilizado para a realização de uma tabela relacional dos dados propostos pelo cliente de forma que fique de facil entendimento e compreensão dos dados relacionados e possivelmente integrados ao power bi.
-
-* Power Bi
-  Utilizando para a criação de um dashboard de facil entendimento e visualização de erros e gastos que podem ser evitados.
-
-* Microsoft Excel
-   Uma das ferramentas mais utilizadas no nosso trabalho tendo o papel fundamentqal na organização dos dados, além de que pudemos usar como caminho para usar no Power Bi e no propio MySQL
-  
-* Slack
-  Software de comunicação para validar as entregas e sanar dúvidas
+*1	Excel:
+O Excel foi a ferramenta mais utilizado por nós nessa API, foi fundamental na organização e na ánalise dos dados, possibilidado fazer comparações, planilhas e deixando em evidencia o problema que a empresa enfrenta, permitindo assim nos aprofundar de forma objetiva nos objetivos que queriamos chegar.
+*2	Power BI:
+Foi usado para organizar de forma visual, nosso objetivo é montar uma Dashboard que ireimos aprofundar mais a fundo no proximo semestre.
+*3	Word
+Foi utilizado para fazer a documentação do trabalhado e forma simples fazer algumas anotações da API.
+*4	GITHUB:
+Permitiu que pudessemos apresentar o desenvolvimento do trabalho de forma visual, na onde está cada um dos nosso passos de forma resgistrada.
+*5	SLACK:
+Foi nossa ferramenta de comunicação que facilitava a troca de informação entre o grupo e o Cliente, onde está documentada os nossos questionamentos permitindo que seja feita de forma agil e eficiente.
+*6	Jira Software
+Foi nossa ferramenta de comunicação que facilitava a troca de informação entre o grupo e o Cliente, onde está documentada os nossos questionamentos permitindo que seja feita de forma agil e eficiente.
 
 
 
