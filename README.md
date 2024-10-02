@@ -109,22 +109,6 @@ Nosso objetivo foi mostrar onde que está a situação de quantos estão errados
 - [x] Integrar banco de dados ao Power BI;
 - [ ] Apresentação e aprovação.
 
-## Sprint 2. Desenvolvimento do Projeto
-- [ ] Atualizar o dashboard em Power BI;
-- [ ] Teste e revisão;
-- [ ] Atualização no Jira;
-- [ ] Atualização no GITHUB;
-- [ ] Criação do vídeo;
-- [ ] Apresentação e aprovação.
-             
-## Sprint 3 . Implementação e Finalização
-- [ ] Otimmização de rotas;
-- [ ] Teste e revisão;
-- [ ] Atualização no Jira;
-- [ ] Atualização no GITHUB;
-- [ ] Criação do vídeo;
-- [ ] Apresentação e aprovação.
-      
 ## Dashboard no Power BI
 Utilizando a ferramenta Power BI desenvolvemos e nos desafiamos montando um dashboard mostrando resultados que adquirimos durante o projeto desenvolvendo algo que seja compreensível e de facil visualização.
   
