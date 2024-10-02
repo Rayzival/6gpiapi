@@ -107,7 +107,6 @@ Nosso objetivo foi mostrar onde que está a situação de quantos estão errados
 - [x] Custo por KM;
 - [x] Custo por unidade transportada;
 - [x] Integrar banco de dados ao Power BI;
-- [ ] Criação do vídeo;
 - [ ] Apresentação e aprovação.
 
 ## Sprint 2. Desenvolvimento do Projeto
