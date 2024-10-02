@@ -1,8 +1,8 @@
 # Aprendizado por Projeto Integrado (API)
 
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
+Repositório para armazenamento de projetos de API, ensinando na plataforma digital "GitHub". 
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos no projeto
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -85,7 +85,8 @@ Adicionar video e documentos nessa seção
 - [ ] Atualização no Jira;
 - [ ] Atualização no GITHUB;
 - [ ] Criação do vídeo;
-- [ ] Apresentação e aprovação.       
+- [ ] Apresentação e aprovação.
+             
 ## Sprint 3 . Implementação e Finalização
 - [ ] Otimmização de rotas;
 - [ ] Teste e revisão;
@@ -95,7 +96,7 @@ Adicionar video e documentos nessa seção
 - [ ] Apresentação e aprovação.
       
 ## Dashboard no Power BI
-
+Utilizando a ferramenta Power BI desenvolvemos e nos desafiamos montando um dashboard mostrando resultados que adquirimos durante o projeto desenvolvendo algo que seja compreensível e de facil visualização.
   
 # Competências desenvolvidas
 
