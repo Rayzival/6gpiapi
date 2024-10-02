@@ -29,34 +29,70 @@ Sprint | Previsão | Status|
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+
+  O projeto na qual está sendo estudado e desenvolvido tem como objetivo usar, aprender e solucionar a situação na qual o cliente se encontra para que possamos propor o problema enfrentado por ele. A logistica especialmente no setor de bebidas, é uns dos pilar do sucesso da organização, pois ele e volve varios processos individuais que se não tiver a devida atenção e admimistração correta pode gerar além de perdas financeira, perda de dados e prejudica a relação com o cliente. A empresa visa melhorar sua gestão na logistica, obtendo uma visão mais clara da operação, desde da organização do frete até mesmo otimização da frota dos caminhões, visando reduzir os erros e maximizar a eficiencia da operação.
+Nessa Sprint nosso foco será mostrar os problemas de forma mais clara, com o foco na ferramenta do Excel, onde possamos mostrar os dados de forma organizada.
+
+* *Analisar e organizar os dados fornecidos pelo cliente:*
+  
+  A analise foi feita encima dos passados a nós do cliente, os dados foram organizado no excel na qual fizemos comparativos para explicar o problema da empresa e deixar de forma clara essses erros que vão desde de erro de frete como CIF E FOB, até nas datas de emissão dos pedidos até a entrega desses produtos.
+
+* Organização dos fretes:
+  
+  A organização dos fretes é um ponto muito importante no estabelecimento pois possui prazo, custo, quantidade de carregamento, local a ser levado, entre outros.
+Nosso objetivo foi mostrar onde que está a situação de quantos estão errados entre o propio CIF e o FOB, para ver em Fabrica está tendo erro de gestão e quanto está perdendo de dinheiro.
+
+* Emissão de pedidos e entrega:
+  
+  Tem como proposta mostrar a incopatiblidade dos dados, onde em algumas situações a emissão do pedido é feita dias depois da entrega, como é possivel o pedido ser entegue antes da propia emisão do pedido? Este era o questionamento.
+  
+* Conferencia da capacidade dos caminhões e das rotas das entregas:
+  
+  A comferencia dos caminhões é imoorte para ver se não esta indo  corretamente nas entregas, no caso do cliente é os caminhões P24 e P12, temos como objetivo identificar se está indo corretamente com a carga solicitada para que não ocorra entregas erradas, pois isso pode constar no dados erro de transporte
 
 # Funcionalidades e registros das sprints
 
   Para o projeto foi usado ferramentas como Excel, Power BI e o MySQL, para utilização nós dados coletados, na qual será desenvolvido um dashboard que apresente visualmente todos os dados importes para a análise de maneira fácil, objetiva e visual ao projeto.
   As empresas têm muita dificuldade na distribuição e nos transportes dessas operações tendo desde erros desde na hora do carregamento até a entrega ao cliente, lembra que a pontualidade e eficácia nas entregas trás confiança ao consumidor assim criando laços e num ramo de cervejaria onde o fluxo é bem constante e variado, cada erro logístico pode custar caro e isso mostra uma falha no processo da empresa.
   A empresa trabalhada no projeto quer ter uma visão ampla do setor logistico dela, para que possa melhorar a eficiência, tendo assim um setor bem estruturado, para tanto economicamente e estruturalmente.
-  O projeto na qual está sendo estudado e desenvolvido tem como objetivo usar, aprender e solucionar a situação na qual o cliente se encontra para que possamos propor o problema enfrentado por ele. A logistica especialmente no setor de bebidas, é uns dos pilar do sucesso da organização, pois ele e volve varios processos individuais que se não tiver a devida atenção e admimistração correta pode gerar além de perdas financeira, perda de dados e prejudica a relação com o cliente. A empresa visa melhorar sua gestão na logistica, obtendo uma visão mais clara da operação, desde da organização do frete até mesmo otimização da frota dos caminhões, visando reduzir os erros e maximizar a eficiencia da operação.
 
 ## Tecnologias Utilizadas
 
-*1	Excel:
-O Excel foi a ferramenta mais utilizado por nós nessa API, foi fundamental na organização e na ánalise dos dados, possibilidado fazer comparações, planilhas e deixando em evidencia o problema que a empresa enfrenta, permitindo assim nos aprofundar de forma objetiva nos objetivos que queriamos chegar.
-*2	Power BI:
-Foi usado para organizar de forma visual, nosso objetivo é montar uma Dashboard que ireimos aprofundar mais a fundo no proximo semestre.
-*3	Word
-Foi utilizado para fazer a documentação do trabalhado e forma simples fazer algumas anotações da API.
-*4	GITHUB:
-Permitiu que pudessemos apresentar o desenvolvimento do trabalho de forma visual, na onde está cada um dos nosso passos de forma resgistrada.
-*5	SLACK:
-Foi nossa ferramenta de comunicação que facilitava a troca de informação entre o grupo e o Cliente, onde está documentada os nossos questionamentos permitindo que seja feita de forma agil e eficiente.
-*6	Jira Software
-Foi nossa ferramenta de comunicação que facilitava a troca de informação entre o grupo e o Cliente, onde está documentada os nossos questionamentos permitindo que seja feita de forma agil e eficiente.
+# Excel
+
+* O Excel foi a ferramenta mais utilizado por nós nessa API, foi fundamental na organização e na ánalise dos dados, possibilidado fazer comparações, planilhas e deixando em evidencia o problema que a empresa enfrenta, permitindo assim nos aprofundar de forma objetiva nos objetivos que queriamos chegar.
+
+![image](https://github.com/user-attachments/assets/656c9d18-e331-4b7b-b826-8c60700f9c7d)
+
+* Item acima é a dashboard de todos dados levantado, para que pudessemos tirar conclusão dos dados.
+![image](https://github.com/user-attachments/assets/eb0d77c2-a162-465c-bf32-0de755a0ede5)
+* A formula usada para fazer a verificação dos paletes: =SE(E(H2="P24";I2=24);"VERDADEIRO";SE(E(H2="P12";I2=12);"VERDADEIRO";"ERRO"))
+  ![image](https://github.com/user-attachments/assets/1a934f26-88d0-48c4-9559-b177983c5954)
+
+  
+* Formula usada para fazer a veriificação do frete: =SE(E(G2="FOB";L2=0);"VERDADEIRO";SE(E(G2="CIF";L2<>0);"VERDADEIRO";"ERRO"))
+  ![image](https://github.com/user-attachments/assets/6afc5418-0f29-49c0-ba57-97da1e70080f)
+
+* Formula usada para fazer a veriificação das datas de entrega: =B2-A2
+
+  ![image](https://github.com/user-attachments/assets/50edbc26-b1d7-4bd4-8d86-dfb6740d7117)
+
+# Power BI
+* Foi usado para organizar de forma visual, nosso objetivo é montar uma Dashboard que ireimos aprofundar mais a fundo no proximo semestre.
+  ![image](https://github.com/user-attachments/assets/d10a5bcc-e577-4164-a00a-dba08b65a3a4)
+
+# Word
+* Foi utilizado para fazer a documentação do trabalhado e forma simples fazer algumas anotações da API.
+* [RELATORIO SPRINT 1- SPARTANS.pdf](https://github.com/user-attachments/files/17236296/RELATORIO.SPRINT.1-.SPARTANS.pdf)
+
+#	GITHUB
+* Permitiu que pudessemos apresentar o desenvolvimento do trabalho de forma visual, na onde está cada um dos nosso passos de forma resgistrada.
+  
+#	SLACK
+* Foi nossa ferramenta de comunicação que facilitava a troca de informação entre o grupo e o Cliente, onde está documentada os nossos questionamentos permitindo que seja feita de forma agil e eficiente.
+  
+# Jira Software
+* Foi nossa ferramenta de comunicação que facilitava a troca de informação entre o grupo e o Cliente, onde está documentada os nossos questionamentos permitindo que seja feita de forma agil e eficiente.
 
 
 
