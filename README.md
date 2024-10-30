@@ -82,7 +82,8 @@ Nosso objetivo foi mostrar onde que está a situação de quantos estão errados
 * Foi usado para organizar de forma visual, nosso objetivo é montar uma Dashboard que ireimos aprofundar mais a fundo no proximo semestre.
   ![image](https://github.com/user-attachments/assets/d10a5bcc-e577-4164-a00a-dba08b65a3a4)
 Está é a segunda atualização da Dashbord onde deixamos da forma mais objetiva na qual possa ter controle e saber quantos caminhões e paletes estão sendo carregados.
-  ![image](https://github.com/user-attachments/assets/29afe424-82b1-40c1-9cee-8375682e64d1)
+  ![{15CC29F4-27C4-477D-8420-2BE8726C886B}](https://github.com/user-attachments/assets/657905c3-de45-452d-89f6-544ab019c7fe)
+
   
 
 # MySql
