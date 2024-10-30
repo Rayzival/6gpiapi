@@ -82,6 +82,12 @@ Nosso objetivo foi mostrar onde que está a situação de quantos estão errados
 * Foi usado para organizar de forma visual, nosso objetivo é montar uma Dashboard que ireimos aprofundar mais a fundo no proximo semestre.
   ![image](https://github.com/user-attachments/assets/d10a5bcc-e577-4164-a00a-dba08b65a3a4)
 
+# MySql
+* Utilizado para integrar dados disponibilizados para acriação de um banco de dados relacional, capaz de ser utilizado para a criação de um dashboard no software Power Bi.
+![{7BDDB080-9F5E-4977-9AF3-C18EBE713F1B}](https://github.com/user-attachments/assets/bafd1e8b-ee3b-4e8f-a202-4aa1b6722222)
+Utilizando o create view é possível consultar dados especificos rapidamente sem a necessidade de digitar um código de comando novamente.
+
+
 # Word
 * Foi utilizado para fazer a documentação do trabalhado e forma simples fazer algumas anotações da API.
 * [RELATORIO SPRINT 1- SPARTANS.pdf](https://github.com/user-attachments/files/17236296/RELATORIO.SPRINT.1-.SPARTANS.pdf)
@@ -108,7 +114,18 @@ Nosso objetivo foi mostrar onde que está a situação de quantos estão errados
 - [x] Custo por KM;
 - [x] Custo por unidade transportada;
 - [x] Integrar banco de dados ao Power BI;
+- [x] Apresentação e aprovação.
+
+## Sprint 2. Atualização
+- [x] Atualização do dashboard;
+- [x] Melhor conversação entre o banco de dados e Power bi;
+- [x] Adaptar gráficos do excel apresentados na sprint 1 para o Power bi;
+- [x] Exploração de novos gráficos para melhor visualização;
+- [x] Atualização do JIRA;
+- [x] Atualização do GITHUB;
+- [x] Atualização do relatório Sprint 2;
 - [ ] Apresentação e aprovação.
+
 
 ## Dashboard no Power BI
 Utilizando a ferramenta Power BI desenvolvemos e nos desafiamos montando um dashboard mostrando resultados que adquirimos durante o projeto desenvolvendo algo que seja compreensível e de facil visualização.
