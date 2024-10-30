@@ -81,6 +81,9 @@ Nosso objetivo foi mostrar onde que está a situação de quantos estão errados
 # Power BI
 * Foi usado para organizar de forma visual, nosso objetivo é montar uma Dashboard que ireimos aprofundar mais a fundo no proximo semestre.
   ![image](https://github.com/user-attachments/assets/d10a5bcc-e577-4164-a00a-dba08b65a3a4)
+Está é a segunda atualização da Dashbord onde deixamos da forma mais objetiva na qual possa ter controle e saber quantos caminhões e paletes estão sendo carregados.
+  ![image](https://github.com/user-attachments/assets/29afe424-82b1-40c1-9cee-8375682e64d1)
+  
 
 # MySql
 * Utilizado para integrar dados disponibilizados para acriação de um banco de dados relacional, capaz de ser utilizado para a criação de um dashboard no software Power Bi.
