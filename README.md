@@ -79,12 +79,19 @@ Nosso objetivo foi mostrar onde que está a situação de quantos estão errados
   ![image](https://github.com/user-attachments/assets/50edbc26-b1d7-4bd4-8d86-dfb6740d7117)
 
 # Power BI
+
 * Foi usado para organizar de forma visual, nosso objetivo é montar uma Dashboard que ireimos aprofundar mais a fundo no proximo semestre.
-  ![image](https://github.com/user-attachments/assets/d10a5bcc-e577-4164-a00a-dba08b65a3a4)
+
+   ![image](https://github.com/user-attachments/assets/d10a5bcc-e577-4164-a00a-dba08b65a3a4)
+
 Está é a segunda atualização da Dashbord onde deixamos da forma mais objetiva na qual possa ter controle e saber quantos caminhões e paletes estão sendo carregados.
+   
   ![{15CC29F4-27C4-477D-8420-2BE8726C886B}](https://github.com/user-attachments/assets/657905c3-de45-452d-89f6-544ab019c7fe)
+
 Está é a ultima atualização do dashboard onde foi atualizado em base dos apontamento feitos em sala de aula.
+
 ![image](https://github.com/user-attachments/assets/43a7cdd2-14a3-4254-bc88-34da879d14ae)
+
 ![image](https://github.com/user-attachments/assets/7b78af73-96ce-4196-9b80-16c33f43605a)
 
 
