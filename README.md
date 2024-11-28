@@ -22,8 +22,8 @@ Sprint | Previsão | Status|
 |Kick Off | 28/08/2024 |Concluído|
 |01 | 02/10/2024 |Concluído|
 |02|  30/10/2024|Concluído|
-|03| 27/11/2024 | Em progresso|
-|Feira de Soluções|12/12/2024 |A fazer |
+|03| 27/11/2024 |Concluído|
+|Feira de Soluções|12/12/2024 |Em progresso |
 
 
 
@@ -152,7 +152,7 @@ Utilizando o create view é possível consultar dados especificos rapidamente se
 - [x] Atualização do relatório Sprint 3;
 - [x] Atualização do MySql;
 - [X] Vizulização dos frete FOB pagos;
-- [ ] Apresentação e aprovação.
+- [x] Apresentação e aprovação.
 
   
 # Competências desenvolvidas
